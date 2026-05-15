@@ -13,3 +13,9 @@ This repository contains the code used to theoretically explore the geometric an
 ```recombination_constraints_simulations.py```: script used to run recombination analysis simulations.
 
 ```visualize_recombination_constraints.py```: script used to visualize recombination analysis simulations.
+
+```architecture_diagram.py```: script used to make visualization for orthogonal expansion vs latent collapse.
+
+```visualize_contour_volume_curves.py```: script used to visualize the fitness landscape geometry for orthogonal expansion vs latent collapse with increasing complexity.
+
+```visualize_fitness_manifold.py```: script used to create dotplot visualization of fitness manifold for orthogonal expansion vs latent collapse with increasing complexity.
